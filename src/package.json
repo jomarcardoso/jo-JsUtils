@@ -1,0 +1,13 @@
+{
+  "name": "js-utils",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "babel7-jest": "^1.0.1",
+    "jest": "^24.8.0"
+  }
+}
